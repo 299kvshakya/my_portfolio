@@ -1,0 +1,89 @@
+#bg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.603),rgba(0, 0, 0, 0.548)), url('image/hero-index.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#bg2{
+    background-color: rgb(28, 21, 70);
+}
+
+#bg3{
+    background-image: url('image/bg_education.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#text1{
+    color: rgb(231, 134, 24);
+}
+
+#text2{
+    color: white;
+}
+
+#text3{
+    color: crimson;
+}
+
+#btn{
+    color: white;
+    margin-bottom: .4rem;
+}
+
+#social1{
+    color: white;
+}
+
+#social1:hover{
+    background: linear-gradient(rgb(209, 15, 161),rgb(209, 15, 57),rgb(228, 224, 22));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#social2{
+    color: white;
+}
+
+#social3{
+    color: white;
+}
+
+#social3:hover{
+    color: rgb(209, 149, 19);
+}
+
+.cntr{
+    text-align: center;
+}
+
+#contact_form{
+    background-image: url('image/1_ee9Ji2ToUxeYfj3YUQ1xsA.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact_form2{
+    box-shadow: 0 15px 25px rgba(0,0,0,0.5);
+    background: transparent;
+}
+
+#about_para{
+    color: rgb(43, 103, 231);
+    font-size: 4rem;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: .3rem solid rgb(43, 103, 231);
+}
+
+#skills_heading{
+    color: rgb(116, 24, 24);
+    font-weight: 800;
+    text-align: center;
+}
+
+#skill_progress{
+    box-shadow: 0 15px 25px rgba(0,0,0,0.5);
+}
