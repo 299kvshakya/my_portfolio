@@ -1,5 +1,5 @@
 #bg{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.603),rgba(0, 0, 0, 0.548)), url('image/hero-index.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.603),rgba(0, 0, 0, 0.548)), url('hero-index.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
 }
 
 #bg3{
-    background-image: url('image/bg_education.jpg');
+    background-image: url('bg_education.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@
 }
 
 #contact_form{
-    background-image: url('image/1_ee9Ji2ToUxeYfj3YUQ1xsA.jpeg');
+    background-image: url('1_ee9Ji2ToUxeYfj3YUQ1xsA.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
